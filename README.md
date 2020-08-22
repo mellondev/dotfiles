@@ -2,7 +2,7 @@
 MellonDev dotfiles
 
 ## Editors
-VsCode
+### VSCode
 .editorconfig
 
 ## Formatting
