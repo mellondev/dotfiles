@@ -3,8 +3,8 @@ MellonDev dotfiles
 
 ## Editors
 ### VSCode
-.editorconfig
+ - .editorconfig
 
 ## Formatting
-.prettierrc
-.jsbeautifyrc
+ - .prettierrc
+ - .jsbeautifyrc
